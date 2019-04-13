@@ -1,2 +1,2 @@
 # API-RESTful-NodeJS
-API RESTful feita com NodeJS, Express, Swagger e PostgreSQL
+API RESTful de um Campeonato de Futebol feito com NodeJS, Express, banco de dados PostgreSQL, e Swagger para a documentação.
